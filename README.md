@@ -31,3 +31,11 @@ pipenv run py -m unittest
 * python 3.7
 * pipenv
 
+##### Worth to check
+* LeetCode
+    * Find All Numbers Disappeared in an Array
+    [runtime beats 95.94% then rest submissions]
+    * Remove Duplicates from Sorted Array 
+    [runtime beats 95.85% then rest submissions]
+    * Replace Elements with Greatest Element on Right Side
+    [one liner ;) but take too much time ;(]
