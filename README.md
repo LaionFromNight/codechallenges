@@ -39,3 +39,7 @@ pipenv run py -m unittest
     [runtime beats 95.85% then rest submissions]
     * Replace Elements with Greatest Element on Right Side
     [one liner ;) but take too much time ;(]
+* CodeWars
+    * 4 kyu - Sudoku Solution Validator
+    * 5 kyu - Base64 Encoding
+    
